@@ -3,7 +3,7 @@ miniMVC-PHP - A minimum php MVC application.
 
 DESCRIPTION
 ---------------
-* This a minimum PHP MVC application, it's very helpfull to learn and full understand the MVC structure in PHP.
+* This is a minimum PHP MVC application, it's very helpfull to learn and full understand the MVC structure in PHP.
 * It's really small which is only 7 files.
 
 REQUIREMENTS
