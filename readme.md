@@ -13,9 +13,9 @@ REQUIREMENTS
 
 SETUP
 ---------------
-* Just copy the codes to you website folder, that's it.
-* For example, if you use the local server program such as wamp, just copy the codes to 'www/miniMVC-PHP/1/', then you can access this app by the url 'localhost/miniMVC-PHP/1' in chrome/firefox/safari or other browers.
-*Please noted that you have to modify the '.htaccess' file in 'RewriteBase' section to match the real path what you used.
+* Just copy the files to you website folder, that's it.
+* For example, if you use the local server program such as wamp, just copy the files to 'www/miniMVC-PHP/1/', then you can access this app by the url 'localhost/miniMVC-PHP/1' in chrome/firefox/safari or other browers.
+* Please noted that you have to modify the '.htaccess' file in 'RewriteBase' section to match the real path what you used.
 
 
 FILE STRUCTURE
