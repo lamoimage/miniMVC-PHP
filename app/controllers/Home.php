@@ -3,7 +3,6 @@ namespace app\controllers;
 use sys\Controller;
 class Home extends Controller{
 	public function index($params = ''){
-		
 		$model = $this->model('User');
 		$model->username = 'Baymax';
 		$data['model'] = 'set username in Model:'.$model->username;

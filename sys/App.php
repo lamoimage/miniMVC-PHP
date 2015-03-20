@@ -21,7 +21,11 @@ class App{
 				unset($url[1]);
 			}
 		}
-		$params = array_values($url);
+		$params = array();
+		if (is_array($url)){
+			$params = array_values($url);
+		}
+		
 		call_user_func_array(array($this->controller,$this->method),$params);
 	}
 	private function parseUrl(){
